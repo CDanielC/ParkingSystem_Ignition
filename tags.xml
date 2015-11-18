@@ -1,0 +1,5033 @@
+<Tags>
+   <Tag name="ParkingPlaceTags" path="" type="Folder"/>
+   <Tag name="ParkingPlace1_29" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">29</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_25" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">25</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_26" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">26</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_27" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">27</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_28" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">28</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_32" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">32</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_33" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">33</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_34" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">34</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_35" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">35</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_30" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">30</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_31" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">31</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_18" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">18</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_19" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">19</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_14" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">14</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_15" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">15</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_16" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">16</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_17" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">17</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_21" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">21</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_22" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">22</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_23" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">23</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_24" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">24</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_20" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">20</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_10" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">10</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447846603000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_11" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">11</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447848012000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_12" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">12</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_13" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">13</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_0" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_2" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_1" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">Off</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447844891000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_4" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">4</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_3" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">3</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_6" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">6</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_5" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">5</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_8" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">8</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447846600000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_7" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">7</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694320000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_9" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">9</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447846601000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_101" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">101</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_102" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">102</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_100" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">100</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_109" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">109</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694326000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_107" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">107</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694326000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_108" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">108</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694326000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_105" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">105</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694326000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_106" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">106</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694326000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_103" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">103</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_104" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">104</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694326000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_1" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_0" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_3" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">3</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_2" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_5" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">5</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_4" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">4</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_7" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">7</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_6" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">6</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_9" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">9</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_8" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">8</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_99" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">99</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_96" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">96</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_95" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">95</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_98" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">98</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_97" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">97</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_92" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">92</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_91" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">91</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_94" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">94</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_93" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">93</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_90" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">90</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_89" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">89</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_88" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">88</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_85" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">85</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_84" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">84</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_87" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">87</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_86" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">86</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_81" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">81</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_80" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">80</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_83" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">83</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_82" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">82</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_78" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">78</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_77" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">77</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_79" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">79</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_74" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">74</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_73" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">73</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_76" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">76</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_75" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">75</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_70" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">70</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_72" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">72</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_71" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">71</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_59" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">59</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_98" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">98</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_67" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">67</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_99" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">99</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_66" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">66</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_69" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">69</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_68" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">68</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694325000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_94" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">94</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_63" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">63</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_95" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">95</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_62" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">62</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_96" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">96</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_65" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">65</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_97" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">97</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_64" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">64</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_90" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">90</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_91" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">91</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_92" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">92</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_61" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">61</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_93" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">93</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_60" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">60</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_49" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">49</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_48" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">48</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_87" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">87</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_56" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">56</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_88" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">88</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_55" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">55</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_89" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">89</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_58" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">58</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_57" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">57</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_83" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">83</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_52" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">52</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_84" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">84</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_51" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">51</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_85" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">85</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_54" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">54</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_86" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">86</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_53" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">53</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_80" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">80</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_81" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">81</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_50" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">50</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_82" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">82</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_69" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">69</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_38" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">38</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_37" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">37</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_39" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">39</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_76" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">76</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_45" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">45</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_77" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">77</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_44" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">44</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_78" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">78</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_47" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">47</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_79" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">79</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_46" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">46</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_72" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">72</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_41" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">41</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_73" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">73</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_40" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">40</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_74" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">74</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_43" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">43</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_75" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">75</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_42" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">42</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_70" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">70</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_71" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">71</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_58" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">58</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_27" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">27</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_59" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">59</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_26" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">26</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_29" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">29</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_28" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">28</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_65" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">65</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_34" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">34</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_66" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">66</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_33" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">33</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_67" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">67</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_36" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">36</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_68" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">68</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_35" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">35</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_61" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">61</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_30" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">30</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_62" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">62</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_63" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">63</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_32" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">32</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_64" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">64</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_31" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">31</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694324000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_60" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">60</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_19" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">19</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_47" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">47</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_16" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">16</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_48" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">48</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_15" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">15</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_49" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">49</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_18" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">18</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_17" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">17</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_54" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">54</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_23" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">23</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_55" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">55</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_22" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">22</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_56" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">56</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_25" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">25</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_57" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">57</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694322000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_24" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">24</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_50" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">50</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_51" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">51</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_52" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">52</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_21" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">21</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_53" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">53</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_20" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">20</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_36" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">36</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_37" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">37</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_38" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">38</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_39" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">39</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_43" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">43</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_12" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">12</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_44" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">44</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_11" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">11</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_45" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">45</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_14" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">14</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_46" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">46</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_13" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">13</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_40" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">40</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_41" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">41</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace2_10" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">10</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694323000</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingPlace1_42" path="ParkingPlaceTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingPlaceData</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="hr_fee" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
+      </Tag>
+      <Tag name="busy" path="" type="EXTENSION">
+         <Property name="Value">0</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="id" path="" type="EXTENSION">
+         <Property name="Value">42</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="EXTENSION">
+         <Property name="Value">1</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
+         <Property name="Value">1447694321000</Property>
+      </Tag>
+   </Tag>
+</Tags>

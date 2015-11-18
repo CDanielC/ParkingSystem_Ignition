@@ -1,0 +1,33 @@
+<Tags>
+   <Tag name="ParkingPlaceData" path="_types_" type="UDT_DEF">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="busy" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="hr_fee" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="id" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="LastStatusNotifySensor" path="" type="DB">
+         <Property name="Value">1970-01-01 01:00:00</Property>
+         <Property name="DataType">8</Property>
+         <Property name="FormatString">yyyy-MM-dd h:mm:ss aa</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="sensorStatus" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+   </Tag>
+</Tags>
