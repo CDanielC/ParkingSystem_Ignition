@@ -41,15 +41,19 @@
       <Parameters>
       </Parameters>
       <Tag name="busyParkingPlaces" path="" type="DB">
-         <Property name="Value"/>
+         <Property name="Value">0</Property>
          <Property name="DataType">2</Property>
       </Tag>
       <Tag name="maxParkingPlaces" path="" type="DB">
-         <Property name="Value"/>
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="numSensorFault" path="" type="DB">
+         <Property name="Value">0</Property>
          <Property name="DataType">2</Property>
       </Tag>
       <Tag name="parkingStationId" path="" type="DB">
-         <Property name="Value"/>
+         <Property name="Value">0</Property>
          <Property name="DataType">2</Property>
       </Tag>
    </Tag>
@@ -59,7 +63,7 @@
       <Parameters>
       </Parameters>
       <Tag name="numParkingStation" path="" type="DB">
-         <Property name="Value"/>
+         <Property name="Value">2</Property>
          <Property name="DataType">2</Property>
       </Tag>
    </Tag>
