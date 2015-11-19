@@ -554,7 +554,7 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
          <Property name="Value">2</Property>
@@ -566,7 +566,7 @@
          <Property name="Value">1</Property>
       </Tag>
       <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
-         <Property name="Value">1447846603000</Property>
+         <Property name="Value">1447848806000</Property>
       </Tag>
    </Tag>
    <Tag name="ParkingPlace1_11" path="ParkingPlaceTags" type="UDT_INST">
@@ -579,7 +579,7 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
          <Property name="Value">2</Property>
@@ -591,7 +591,7 @@
          <Property name="Value">1</Property>
       </Tag>
       <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
-         <Property name="Value">1447848012000</Property>
+         <Property name="Value">1447848807000</Property>
       </Tag>
    </Tag>
    <Tag name="ParkingPlace1_12" path="ParkingPlaceTags" type="UDT_INST">
@@ -675,10 +675,10 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">2</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">2</Property>
@@ -703,7 +703,7 @@
          <Property name="Value">1</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">Off</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">1</Property>
@@ -725,10 +725,10 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">2</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">4</Property>
@@ -753,7 +753,7 @@
          <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">2</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">3</Property>
@@ -778,7 +778,7 @@
          <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">2</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">6</Property>
@@ -803,7 +803,7 @@
          <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">2</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">5</Property>
@@ -825,7 +825,7 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
          <Property name="Value">2</Property>
@@ -837,7 +837,7 @@
          <Property name="Value">1</Property>
       </Tag>
       <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
-         <Property name="Value">1447846600000</Property>
+         <Property name="Value">1447848806000</Property>
       </Tag>
    </Tag>
    <Tag name="ParkingPlace1_7" path="ParkingPlaceTags" type="UDT_INST">
@@ -853,7 +853,7 @@
          <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">2</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">7</Property>
@@ -875,7 +875,7 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
          <Property name="Value">2</Property>
@@ -887,7 +887,7 @@
          <Property name="Value">1</Property>
       </Tag>
       <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
-         <Property name="Value">1447846601000</Property>
+         <Property name="Value">1447848806000</Property>
       </Tag>
    </Tag>
    <Tag name="ParkingPlace2_101" path="ParkingPlaceTags" type="UDT_INST">
@@ -5029,5 +5029,28 @@
       <Tag name="LastStatusNotifySensor" path="" type="EXTENSION">
          <Property name="Value">1447694321000</Property>
       </Tag>
+   </Tag>
+   <Tag name="ParkingStationTags" path="" type="Folder"/>
+   <Tag name="ParkingStation_1" path="ParkingStationTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingStationData</Property>
+      <Parameters>
+      </Parameters>
+   </Tag>
+   <Tag name="ParkingStation_2" path="ParkingStationTags" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">ParkingStationData</Property>
+      <Parameters>
+      </Parameters>
+   </Tag>
+   <Tag name="SystemTag" path="" type="Folder"/>
+   <Tag name="System" path="SystemTag" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">SystemData</Property>
+      <Parameters>
+      </Parameters>
    </Tag>
 </Tags>

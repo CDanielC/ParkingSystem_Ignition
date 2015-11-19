@@ -16,6 +16,11 @@
          <Property name="Value">0</Property>
          <Property name="DataType">2</Property>
       </Tag>
+      <Tag name="LastArrival" path="" type="DB">
+         <Property name="Value">1970-01-01 01:00:00</Property>
+         <Property name="DataType">8</Property>
+         <Property name="FormatString">yyyy-MM-dd h:mm:ss aa</Property>
+      </Tag>
       <Tag name="LastStatusNotifySensor" path="" type="DB">
          <Property name="Value">1970-01-01 01:00:00</Property>
          <Property name="DataType">8</Property>
@@ -27,6 +32,34 @@
       </Tag>
       <Tag name="sensorStatus" path="" type="DB">
          <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+   </Tag>
+   <Tag name="ParkingStationData" path="_types_" type="UDT_DEF">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="busyParkingPlaces" path="" type="DB">
+         <Property name="Value"/>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="maxParkingPlaces" path="" type="DB">
+         <Property name="Value"/>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="parkingStationId" path="" type="DB">
+         <Property name="Value"/>
+         <Property name="DataType">2</Property>
+      </Tag>
+   </Tag>
+   <Tag name="SystemData" path="_types_" type="UDT_DEF">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="numParkingStation" path="" type="DB">
+         <Property name="Value"/>
          <Property name="DataType">2</Property>
       </Tag>
    </Tag>
