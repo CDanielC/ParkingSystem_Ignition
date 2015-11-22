@@ -1,4 +1,18 @@
 <Tags>
+   <Tag name="NetworkTag" path="_types_" type="UDT_DEF">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="address" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="port" path="" type="DB">
+         <Property name="Value"/>
+         <Property name="DataType">2</Property>
+      </Tag>
+   </Tag>
    <Tag name="ParkingPlaceData" path="_types_" type="UDT_DEF">
       <Property name="Value"/>
       <Property name="DataType">2</Property>
@@ -44,11 +58,23 @@
          <Property name="Value">0</Property>
          <Property name="DataType">2</Property>
       </Tag>
+      <Tag name="fee_hr" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
       <Tag name="maxParkingPlaces" path="" type="DB">
          <Property name="Value">0</Property>
          <Property name="DataType">2</Property>
       </Tag>
+      <Tag name="name" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
       <Tag name="numSensorFault" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="operatorNeeded" path="" type="DB">
          <Property name="Value">0</Property>
          <Property name="DataType">2</Property>
       </Tag>

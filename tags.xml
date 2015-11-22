@@ -557,7 +557,7 @@
          <Property name="Value">1</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">2</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">10</Property>
@@ -579,10 +579,10 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">0</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">2</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">11</Property>
@@ -628,7 +628,7 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
          <Property name="Value">2</Property>
@@ -653,7 +653,7 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
          <Property name="Value">2</Property>
@@ -675,7 +675,7 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
          <Property name="Value">2</Property>
@@ -700,7 +700,7 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">1</Property>
+         <Property name="Value">0</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
          <Property name="Value">2</Property>
@@ -725,10 +725,10 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">0</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">2</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">4</Property>
@@ -775,10 +775,10 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">0</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">2</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">6</Property>
@@ -803,7 +803,7 @@
          <Property name="Value">1</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">2</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">5</Property>
@@ -825,7 +825,7 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">0</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
          <Property name="Value">2</Property>
@@ -850,10 +850,10 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">0</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
-         <Property name="Value">2</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="id" path="" type="EXTENSION">
          <Property name="Value">7</Property>
@@ -875,7 +875,7 @@
          <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="busy" path="" type="EXTENSION">
-         <Property name="Value">0</Property>
+         <Property name="Value">1</Property>
       </Tag>
       <Tag name="sensorStatus" path="" type="EXTENSION">
          <Property name="Value">2</Property>
@@ -5040,13 +5040,19 @@
       <Tag name="maxParkingPlaces" path="" type="EXTENSION">
          <Property name="Value">100</Property>
       </Tag>
+      <Tag name="name" path="" type="EXTENSION">
+         <Property name="Value">Porta a Mare</Property>
+      </Tag>
       <Tag name="busyParkingPlaces" path="" type="EXTENSION">
-         <Property name="Value">53</Property>
+         <Property name="Value">55</Property>
+      </Tag>
+      <Tag name="fee_hr" path="" type="EXTENSION">
+         <Property name="Value">1.5</Property>
       </Tag>
       <Tag name="parkingStationId" path="" type="EXTENSION">
       </Tag>
       <Tag name="numSensorFault" path="" type="EXTENSION">
-         <Property name="Value">95</Property>
+         <Property name="Value">94</Property>
       </Tag>
    </Tag>
    <Tag name="ParkingStation_2" path="ParkingStationTags" type="UDT_INST">
@@ -5058,13 +5064,27 @@
       <Tag name="maxParkingPlaces" path="" type="EXTENSION">
          <Property name="Value">110</Property>
       </Tag>
+      <Tag name="name" path="" type="EXTENSION">
+         <Property name="Value">Moderno</Property>
+      </Tag>
       <Tag name="busyParkingPlaces" path="" type="EXTENSION">
          <Property name="Value">57</Property>
       </Tag>
+      <Tag name="fee_hr" path="" type="EXTENSION">
+         <Property name="Value">2.0</Property>
+      </Tag>
       <Tag name="numSensorFault" path="" type="EXTENSION">
+         <Property name="Value">108</Property>
       </Tag>
    </Tag>
    <Tag name="SystemTag" path="" type="Folder"/>
+   <Tag name="Proxy" path="SystemTag" type="UDT_INST">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Property name="UDTParentType">NetworkTag</Property>
+      <Parameters>
+      </Parameters>
+   </Tag>
    <Tag name="System" path="SystemTag" type="UDT_INST">
       <Property name="Value"/>
       <Property name="DataType">2</Property>
